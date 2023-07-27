@@ -1,4 +1,4 @@
-app = "djangosite"
+app = "mainsite"
 
 [build]
 image = "python:3.9"
